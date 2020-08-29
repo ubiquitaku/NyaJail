@@ -1,0 +1,6 @@
+name: NyaJail
+version: ${project.version}
+main: ubiquitaku.nyajail.NyaJail
+api-version: 1.16
+commands:
+  njail:
